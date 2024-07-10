@@ -78,8 +78,6 @@ public class NotaFragment extends Fragment {
         return view;
     }
 
-…
-
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
